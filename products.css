@@ -1,0 +1,184 @@
+body {
+		width:1352px;
+}
+	
+	
+	
+	
+.foto {
+	display: block;
+	margin-left:650px;
+	margin-right:400px;
+	width:55px;
+	height:55px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+ .aa {
+		background-color:#dedede;
+		margin:-8px;
+}
+
+p {
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:350px;
+}
+
+a {
+	color:#909090;
+	text-decoration:none;
+}
+
+.mp {
+		float:left;
+		font-size:20px;
+		margin-left:400px;
+		margin-top:2px;
+		font-family:helvetica;
+}
+
+.prd {
+		float:left;
+		margin-left:65px;
+		margin-top:2px;
+		font-size:20px;
+		font-family:helvetica;
+		color:black;
+}
+
+.au {
+		float:left;
+		margin-left:65px;
+		margin-top:2px;
+		font-size:20px;
+		font-family:helvetica;
+}
+
+.cu {
+		float:left;
+		margin-left:65px;
+		margin-top:2px;
+		font-size:20px;
+		font-family:helvetica;
+}
+
+
+
+
+.td {
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		padding-left:610px;
+}
+
+a:hover {
+		color:black;
+	
+}
+
+div.mp {
+			display:block;
+			font-family:helvetica;
+			margin-left:583px;
+			margin-right:auto;
+			margin-top:70px;
+			font-size:30px;
+			font-style:bold;
+}
+
+.mac {
+			width:1024px;
+			height:768px;
+			margin-left:171px;
+			margin-right:171px;
+			margin-top:-10px;
+}
+
+.learn {
+		margin-left:530px;
+		padding:20px;
+		color:#0070c9;
+		font-size:25px;
+		font-weight:400;
+		font-family:helvetica;
+		color:#0070c9;
+		
+
+}
+
+.buy{
+		color:#0070c9;
+		font-size:25px;
+		font-weight:400;
+		font-family:helvetica;
+		
+}
+
+.lsa {
+		font-family:helvetica;
+		font-size:60px;
+		margin-left:360px;	
+}
+
+.macbookpro {
+				background-color:#121217;
+				height:768px;
+				margin-left:-8px;
+				
+				
+}
+
+.macbookprotext {
+					color:white;
+					font-size:35px;
+					font-family:helvetica;
+					display:block;
+					margin-left:570px;
+					margin-top:-700px;
+					
+}
+
+.power {
+		color:white;
+		font-size:60px;
+		font-family:helvetica;
+		margin-left:510px;
+
+}
+
+.per {	
+		color:white;
+		font-family:helvetica;
+		font-size:60px;
+		margin-left:420px;
+}
+
+.pro {
+		color:white;
+		font-family:helvetica;
+		font-size:60px;
+		margin-left:540px;
+}
+
+span:hover {
+			color:white;
+}
+
+
+
+		
+		
+		
+
+
+
+
+
+
+
+
+
+

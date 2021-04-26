@@ -1,0 +1,179 @@
+	body {
+		width:1352px;
+}
+
+.foto {
+	display: block;
+	margin-left:650px;
+	margin-right:400px;
+	width:55px;
+	height:55px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+
+ .aa {
+		background-color:#dedede;
+		margin:-8px;
+		width:1352px;
+}
+
+p {
+	margin-bottom:0px;
+	margin-top:0px;
+	margin-left:350px;
+}
+
+a {
+	color:#909090;
+	text-decoration:none;
+}
+
+.mp {
+		float:left;
+		font-size:20px;
+		margin-left:400px;
+		margin-top:2px;
+		font-family:helvetica;
+}
+
+.prd {
+		float:left;
+		margin-left:65px;
+		margin-top:2px;
+		font-size:20px;
+		font-family:helvetica;
+}
+
+.au {
+		float:left;
+		margin-left:65px;
+		margin-top:2px;
+		font-size:20px;
+		font-family:helvetica;
+}
+
+.cu {
+		float:left;
+		margin-left:65px;
+		margin-top:2px;
+		font-size:20px;
+		font-family:helvetica;
+}
+
+
+
+
+.td {
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		padding-left:610px;
+}
+
+
+
+.sm {
+		margin-top:-300px;
+		margin-left:100px;
+		font-size:28px;
+		color:white;
+		font-family:verdana;
+		opacity:0.8;
+}
+
+.cc {
+		margin-top:-00px;
+		margin-left:100px;
+		font-size:24px;
+		color:white;
+		font-family:verdana;
+		opacity:0.8;
+}
+
+.dd {
+			margin-top:-00px;
+		margin-left:100px;
+		font-size:24px;
+		color:white;
+		font-family:verdana;
+		opacity:0.8;
+}
+
+
+.button {
+			background-color:none;
+			border-color:white;
+			border-style:solid;
+			font-size:20px;
+			margin-left:100px;
+			padding:3px;
+			padding-right:6px;
+			padding-left:6px;
+			opacity:0.8;
+			border-width:1px;		
+}
+
+a:hover {
+				color:black;
+				background-color:white;
+}
+
+.iphone6 {
+			margin-top:160px;
+			margin-left:100px;
+			margin-right:70px;
+			float:left;
+			
+}
+
+p.lipsum {
+			margin-top:190px;
+			font-size:20px;
+			font-style:bold;
+			margin-right:100px;
+			font-family:helvetica;
+		
+}
+
+p.li {
+		margin-top:70px;
+		font-weight:5px;
+		margin-right:100px;
+		font-family:helvetica;
+		font-size:17px;
+}
+
+.ipad {
+		margin-left:-8px;
+		
+}
+
+a.seemore {
+			background-color:none;
+			border-color:black;
+			border-style:solid;
+			font-size:20px;
+			margin-left:595px;
+			padding:3px;
+			padding-right:6px;
+			padding-left:6px;
+			border-width:1px;			
+			color:black;
+}		
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
